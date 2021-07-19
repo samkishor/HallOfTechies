@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Samraj",
+    role: "CS Graduate",
+    image: "https://avatars.githubusercontent.com/u/51151216?s=400&u=65b26c4ce316f75ee3e94c72f174e2c454ba52df&v=4",
+    skills: ['js', 'react', 'node', 'react native', 'php'],
+    link: [
+      "https://github.com/samkishor",
+      "https://www.linkedin.com/in/sam-raj-8961471ab/",
+      "https://twitter.com/Sam97507744",
+    ],
+  },
 ];
 
 export default data;
